@@ -1,4 +1,4 @@
-
+[![Watch the video](https://youtu.be/F42XSARYMb8)
 
 # Gemini RAG Q&A Assistant
 
