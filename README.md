@@ -67,7 +67,7 @@ This application integrates several components to create an intelligent Q&A syst
    ```
 3. Create a `.env` file in the project root with your Google API key:
    ```
-   GOOGLE_API_KEY=AI_studio_api_key
+   GOOGLE_API_KEY="AI_studio_api_key"
    ```
 
 ## Usage
