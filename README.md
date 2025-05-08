@@ -1,5 +1,4 @@
-[![Watch the video](https://youtu.be/F42XSARYMb8)
-
+[![Watch the video](https://img.youtube.com/vi/F42XSARYMb8/0.jpg)](https://youtu.be/F42XSARYMb8)
 # Gemini RAG Q&A Assistant
 
 A multi-agent Q&A assistant powered by Google Gemini API that uses Retrieval-Augmented Generation (RAG) to answer questions from uploaded text documents.
