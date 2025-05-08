@@ -1,6 +1,0 @@
-Product B is a budget-friendly solution for small teams.
-It offers core functionalities like:
-- Basic task management
-- Simple reporting
-- Standard UI
-Product B costs $50 per month. It is a good alternative to Product A if you need fewer features.
